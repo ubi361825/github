@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">鴿app</string>
+    <string name="acc">帳號：</string>
+    <string name="pwd">密碼：</string>
+    <string name="cpwd">確認密碼：</string>
+    <string name="nname">*暱稱：</string>
+    <string name="rname">*姓名：</string>
+    <string name="pnum">*電話：</string>
+    <string name="email">*email：</string>
+    <string name="address">地址：</string>
+    <string name="gender">性別：</string>
+    <string name="bday">生日：</string>
+    <string name="classes">身分別：</string>
+    <string name="login">登入</string>
+    <string name="register">註冊</string>
+    <string name="confirm">確認送出</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="loginmsg">登入成功</string>
+</resources>

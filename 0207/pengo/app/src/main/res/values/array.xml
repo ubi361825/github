@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="classes">
+        <item>種鴿場</item>
+        <item>作出者</item>
+        <item>教練</item>
+        <item>鴿友</item>
+    </array>
+</resources>
